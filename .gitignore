@@ -1,0 +1,36 @@
+# General & OS
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+desktop.ini
+
+# IDE & Editor caches
+.vscode/
+.idea/
+.clangd/
+.cache/
+compile_commands.json
+
+# Mobile App (React, Vite, Node, Capacitor)
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+.env.*.local
+*.apk
+*.aab
+
+# Capacitor Android build artifacts
+android/.gradle/
+android/.idea/
+android/build/
+android/app/build/
+android/local.properties
+android/capacitor-cordova-android-plugins/
+
+# PlatformIO & Embedded Firmware
+.pio/
+.pioenvs/
+.piolibdeps/

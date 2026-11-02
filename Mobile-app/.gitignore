@@ -1,0 +1,16 @@
+node_modules/
+.vite/
+dist/
+.env
+.DS_Store
+*.log
+*.apk
+# Capacitor Android local & build files
+android/.gradle/
+android/.idea/
+android/build/
+android/app/build/
+android/local.properties
+android/capacitor-cordova-android-plugins/
+DummyESP32*/
+guidelines/
